@@ -17,10 +17,10 @@ The `if` statement allows conditional execution of code blocks based on logical 
       # Code to execute if all conditions are False
 
 # Example 
-num = 10
-if num > 0:
-    print("Positive number")
-elif num < 0:
-    print("Negative number")
-else:
-    print("Zero")
+* num = 10
+* if num > 0:
+    * print("Positive number")
+* elif num < 0:
+    * print("Negative number")
+* else:
+    * print("Zero")
