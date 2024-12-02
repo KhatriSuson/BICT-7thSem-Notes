@@ -4,7 +4,7 @@ BICTE 7th Sem Python Programming notes.
 2. [Unit 02: Control-Statement-in-Python](02-Control-Statement-in-Python.md)  
 3. [Unit 03: List,Tuple,Dict,Sets-and-Strings](03-List,Tuple,Dict,Sets-and-Strings.md)  
 4. [Unit 04: Object-Oriented-Programming-with-Python](04-Object-Oriented-Programming-with-Python.md)  
-5. [Unit 05: Function,Exception-and-File-Handing](05-Function,Exception-and-File-Handing.md)  
+5. [Unit 05: Function,Exception-and-File-Handing](05-Function,Exception-and-File-Handling.md)  
 6. [Unit 06: Database-and-GUI-Programming](06-Database-and-GUI-Programming.md)  
 
 ## **Course Description**
