@@ -87,3 +87,12 @@
   ```python
   name = input("Enter your name: ")
   print(f"Hello, {name}!")
+
+** Stay Positive **
+
+<hr>
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sushan-khatri-959248259/)
+<hr>

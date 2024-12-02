@@ -73,3 +73,9 @@ An infinite loop continues executing indefinitely until explicitly stopped, usua
 ---
 
 **Keep Learning and Happy Coding!**
+<hr>
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sushan-khatri-959248259/)
+<hr>
