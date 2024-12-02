@@ -1,4 +1,11 @@
 # Python Programming ICT. Ed. 477
+BICTE 7th Sem Python Programming notes.
+1. [Unit 01: Python-Programming-Fundamentals](01-Python-Programming-Fundamentals.md)  
+2. [Unit 02: Control-Statement-in-Python](02-Control-Statement-in-Python.md)  
+3. [Unit 03: List,Tuple,Dict,Sets-and-Strings](03-List,Tuple,Dict,Sets-and-Strings.md)  
+4. [Unit 04: Object-Oriented-Programming-with-Python](04-Object-Oriented-Programming-with-Python.md)  
+5. [Unit 05: Function,Exception-and-File-Handing](05-Function,Exception-and-File-Handing.md)  
+6. [Unit 06: Database-and-GUI-Programming](06-Database-and-GUI-Programming.md)  
 
 ## **Course Description**
 The "Python Programming" course aims to impart knowledge of the basic concepts of Python programming and equip students with skills to solve problems using it. The course covers fundamental features of the language, including:
