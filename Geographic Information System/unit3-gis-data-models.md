@@ -91,7 +91,7 @@ This section outlines practical exercises to reinforce your understanding of GIS
   3. Visualize results using color gradients.  
 - **Real-Life Example:** Analyze elevation data to identify flood-prone areas.  
 - **Helpful Resource:**  
-  - [Working with Raster Data in QGIS](https://docs.qgis.org/3.28/en/docs/training_manual/rasters/index.html)
+  - [Working with Raster Data in QGIS](https://docs.qgis.org/3.34/en/docs/training_manual/rasters/index.html)
 
 ---
 
