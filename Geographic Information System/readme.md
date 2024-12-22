@@ -1,3 +1,11 @@
+# Geographic Information System ICT. Ed. 473
+BICTE 7th Sem Geographic Information Systems (GIS)
+1. [Unit 1: Introduction to GIS](unit-1-introduction-to-GIS.md)  
+2. [Unit 2: Reading, Analyzing and Interpreting Maps](unit2-Reading-Analyzing-and-Interpreting-Maps.md )  
+3. [Unit 3: GIS Data Model](unit3-gis-data-models.md)  
+4. [Unit 4: Searching for Geographic Objects](unit4-searching-for-geographic-objects.md)  
+5. [Unit 5: Geographic Pattern Analysis](unit5-geographic-pattern-anakysis.md)  
+6. [Activities](Activities-of-course.md)  
 # Introduction to Geographic Information Systems (GIS) 📍
 
 This course provides foundational knowledge and hands-on experience with Geographic Information Systems (GIS), focusing on spatial data and map analysis. It is designed to equip students with the skills to solve real-world problems using GIS tools and techniques. The course emphasizes practical application through laboratory work, enabling students to understand and utilize GIS concepts effectively.
