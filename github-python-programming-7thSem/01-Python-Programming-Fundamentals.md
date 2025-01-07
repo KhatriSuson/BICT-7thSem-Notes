@@ -87,7 +87,8 @@
   ```python
   name = input("Enter your name: ")
   print(f"Hello, {name}!")
-  <hr>
+
+<hr>
 
 # Specific Objectives:
 # Python Programming Fundamentals  
