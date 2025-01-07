@@ -87,8 +87,9 @@
   ```python
   name = input("Enter your name: ")
   print(f"Hello, {name}!")
+  <hr>
 
-## Specific Objectives:
+# Specific Objectives:
 # Python Programming Fundamentals  
 
 ## Unit 1: Python Programming Fundamentals [8]  
