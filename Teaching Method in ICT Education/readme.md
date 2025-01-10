@@ -29,7 +29,7 @@ The objectives of this course are:
 
 ---
 
-## ✨ Key Takeaways
+## ✨ Key Take a ways
 Participants will learn to:
 - Deliver ICT content interactively and effectively.
 - Assess and manage student performance using digital tools.
