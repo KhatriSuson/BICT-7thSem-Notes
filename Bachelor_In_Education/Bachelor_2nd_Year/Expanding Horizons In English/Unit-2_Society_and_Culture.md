@@ -82,4 +82,4 @@ The story of **Numafung** (नुमाफुङ) is shared among Tibetan commun
 ## ✅ Summary  
 In this unit, we explored how **society and culture** (समाज र संस्कृति) shape identities, movements, and narratives. From understanding cultural diversity to analyzing social change, we’ve discussed concepts that impact individuals and communities globally.  
 
-📌 **Next:** Proceed to [Unit 3](../Unit-3_Human_Rights_and_Freedom.md →  
+📌 **Next:** Proceed to [Unit 3](../Unit-3_Human_Rights_and_Freedom.md) →  
