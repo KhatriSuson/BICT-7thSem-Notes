@@ -7,7 +7,7 @@
 3. **Unit 3: [Human Rights and Freedom](Unit-3_Human_Rights_and_Freedom.md)**  
 4. **Unit 4: [Education and Language Teaching](Unit-4_Education_and_Language_Teachning.md)**  
 5. **Unit 5: [Globalisation and Postmodernism](Unit-5_Globalisation_and_Postmodernism.md)**  
-6. **Unit 6: [Writers at Work](unit-6.md)**  
+6. **Unit 6: [Writers at Work](Unit-6_Writers_at_Work.md)**  
 7. **Unit 7: [Reconciliation and Peace](unit-7.md)**  
 8. **Unit 8: [Travel and Adventure](unit-8.md)**  
 9. **Unit 9: [Music and Art](unit-9.md)**  
