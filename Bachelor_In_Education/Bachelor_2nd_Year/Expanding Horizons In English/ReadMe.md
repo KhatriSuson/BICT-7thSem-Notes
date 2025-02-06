@@ -16,7 +16,13 @@
 12. **Unit 12: [Nature, Ecology, and Environment](Unit-12_Nature_Ecology_and_Environment.md)**  
 
 ---  
+# Visualize the Course:
+ ! [Visualize_Course Image](images/visualize_course.webp)
 
+ <hr>
+
+# Visualize the Units:
+ ! [Visualize_Course Image](images/visualize_units.webp)
 ## 📖 Course Overview  
 This course is designed to broaden students' knowledge through interdisciplinary English texts. Covering topics such as humanities, society, culture, human rights, education, globalization, and more, students will develop critical reading, analysis, and language proficiency skills. The course also aims to enhance interpretative and analytical abilities through exposure to various genres and perspectives.  
 
