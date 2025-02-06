@@ -17,14 +17,15 @@
 
 ---  
 # Visualize the Course:
- ! [Visualize_Course Image](images/visualize_course.webp)
+ ![Screenshot 2025-02-06 170542](https://github.com/user-attachments/assets/998a4ae6-3e4f-46bc-b701-24c4b6eae93f)
+
 
  <hr>
 
 # Visualize the Units:
- ! [Visualize_Course Image](images/visualize_units.webp)
- # Test:
- ![Screenshot 2024-12-06 002452](https://github.com/user-attachments/assets/62c4e1b0-8142-48e1-bf18-bf9faf0647cd)
+ ![Uploading Screenshot 2025-02-06 170530.png…]()
+
+ 
 
 ## 📖 Course Overview  
 This course is designed to broaden students' knowledge through interdisciplinary English texts. Covering topics such as humanities, society, culture, human rights, education, globalization, and more, students will develop critical reading, analysis, and language proficiency skills. The course also aims to enhance interpretative and analytical abilities through exposure to various genres and perspectives.  
