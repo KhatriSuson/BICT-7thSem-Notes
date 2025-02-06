@@ -2,8 +2,8 @@
 
 ## 📚 Course Units  
 
-1. **Unit 1: [Humanities](unit-1.md)**  
-2. **Unit 2: [Society and Culture](unit-2.md)**  
+1. **Unit 1: [Humanities](Unit-1_Humanities.md)**  
+2. **Unit 2: [Society and Culture](Unit-2_Society_and_Culture.md)**  
 3. **Unit 3: [Human Rights and Freedom](unit-3.md)**  
 4. **Unit 4: [Education and Language Teaching](unit-4.md)**  
 5. **Unit 5: [Globalisation and Postmodernism](unit-5.md)**  
