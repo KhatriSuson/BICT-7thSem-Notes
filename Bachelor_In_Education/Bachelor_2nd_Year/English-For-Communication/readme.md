@@ -1,9 +1,22 @@
-# Expanding Horizons in English - Bachelor Second Year
+# English For Communication - Bachelor Second Year
 
 ## Course Overview
-This course, "Expanding Horizons in English," is designed to enhance students' communicative competence through everyday language functions. The course provides a comprehensive study of both grammatical and communicative functions, covering written and oral communication, as well as language functions related to information, attitudes, actions, social interactions, and more.
+This course, "English For Communication," is designed to enhance students' communicative competence through everyday language functions. The course provides a comprehensive study of both grammatical and communicative functions, covering written and oral communication, as well as language functions related to information, attitudes, actions, social interactions, and more.
 
 ---
+## 📚 Course Units  
+
+1. **Unit 1: [Introduction](unit-1_Introduction.md)**  
+2. **Unit 2: [Language Functions: About Information](unit-2_Language_Functions_About_Information.md)**  
+3. **Unit 3: [Language Functions: About Attitudes](unit-3_Language_Fuctions_About_Attitudes.md)**  
+4. **Unit 4: [Language Functions: About Action](unit-4_Language_Functions_About_Action.md)**  
+5. **Unit 5: [Language Functions Social Formulas](unit-5_Language_Functions_Social_Formulas.md)**  
+6. **Unit 6: [Language Functions Making Communication Work](unit-6_Language_Functions_Making_Communication_Work.md)**  
+7. **Unit 7: [Language Functions Imparting Factual Information ](unit-7_Language_Functions_Imparting_Factual_Information.md)**  
+8. **Unit 8: [Language Functions Finding Out About Language](unit-8_Language_Functions_Finding_Out_About_Language.md)**  
+9. **Unit 9: [Written Communication](unit-9_Written_Communication.md)**  
+
+
 
 ## Units Overview
 
