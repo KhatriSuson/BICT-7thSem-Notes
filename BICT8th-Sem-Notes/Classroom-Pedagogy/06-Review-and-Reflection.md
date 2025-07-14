@@ -1,124 +1,128 @@
-# Unit 5: Student-Centered Methods
+# Unit 6: Review and Reflection
 
 ## Specific Objectives
 
-- Explain when **student-centered methods** are most effective.  
-- Elaborate on various **categories of student-centered methods**.  
-- Describe different **strategies** under each category and their practical uses.  
-- Prepare **sample lesson plans** using student-centered strategies.
+- Describe the **importance of review and reflection** in teaching and learning.  
+- Explain various **strategies used for review and reflection** in the classroom.  
+- Discuss different **reflective approaches** that help improve classroom practices.
 
 ---
 
-## When to Use Student-Centered Methods
+## 6.1 Concept of Review and Reflection
 
-Student-centered methods are most effective when:
+### 🔄 Review
+- Reviewing refers to **revisiting previously learned concepts** to reinforce understanding, clear doubts, and deepen knowledge.
+- It can be **fun, interactive, or structured**, and supports **long-term retention**.
 
-- The goal is to develop **critical thinking, creativity, and collaboration**.  
-- Lessons focus on **exploration, discovery, or inquiry-based learning**.  
-- You want to foster **engagement, interaction, and ownership** of learning.  
-- Learners have **diverse needs** and learning styles.
+### 💭 Reflection
+- Reflection is the process of **thinking critically about one's own learning, teaching, or experience**.
+- Encourages learners and teachers to **identify strengths, weaknesses, improvements**, and **future goals**.
 
-📝 *Real-life example:*  
-In a social studies class, instead of lecturing about environmental issues, students conduct group research on local pollution problems and present their findings with solutions.
-
----
-
-## 5.1 Learner-Engaged Learning Category
-
-### 5.1.1 Concept
-
-- Encourages learners to **engage actively** with content and peers.  
-- Emphasizes **thinking, reflection, discussion, and exploration**.
-
-### 5.1.2 Strategies
-
-| Strategy | Description | Real-life Example |
-|---------|-------------|-------------------|
-| **Brainstorming** | Students share ideas rapidly on a topic | Brainstorm "How can we reduce plastic waste?" |
-| **Think-Pair-Share** | Think individually, discuss in pairs, share with class | Solve a math word problem using this model |
-| **Directed Reading Activity (DRA)** | Teacher guides reading with pre-set goals/questions | Guide students reading a science article |
-| **Prediction from Terms** | Predict content using keywords before reading | Predict a story using "forest", "lost", "map" |
-| **Direct Listening Thinking Activity (DLTA)** | Predict content while listening | Teacher reads aloud and stops for predictions |
-| **Text Coding** | Annotate text using symbols (✓, ?, !) | Mark confusing parts or important points in text |
-| **KWL (Know, Want to know, Learned)** | Organize learning goals | Before/after reading about climate change |
-| **What? So what? Now what?** | Reflective questioning process | After a project: What did we learn? Why is it important? What can we do now? |
-| **Verbalized Learning** | Students explain what they’ve learned | Summarizing a science experiment verbally |
-| **Learning Stations** | Rotating tasks in small groups | 4 stations: writing, reading, drawing, quiz |
+📝 *Real-life Example:*  
+After completing a unit on cooperative learning, students write a short reflection on what they found challenging and how they contributed to their group. The teacher, too, reflects on what strategy worked best.
 
 ---
 
-## 5.2 Cooperative Learning Category
+## 6.2 Strategies for Review and Reflection
 
-### 5.2.1 Concept
+### ✅ Question–Answer Pair
+- Students pair up and **quiz each other** using prepared questions.
+- Great for test revision.
 
-- Learning through **peer interaction and shared goals**.  
-- Encourages **teamwork, responsibility, and communication**.
-
-### 5.2.2 Strategies
-
-| Strategy | Description | Real-life Example |
-|---------|-------------|-------------------|
-| **Paired Reading/Summarizing** | Read and summarize in pairs | One reads, the other summarizes the main idea |
-| **Reciprocal Teaching** | Rotate roles: summarizer, questioner, clarifier | Reading comprehension activity in groups |
-| **Read-Summarize-Question** | Read, summarize key points, and generate questions | For science or history texts |
-| **Jigsaw** | Each group learns one part, then teaches others | Groups study water cycle parts and share |
-| **One Stay, Others Stray** | One member stays to explain, others visit peers | Rotate and share learning about famous people |
-| **Mix-Freeze-Pair** | Move around, freeze, pair up, discuss | Review quiz activity |
-| **Pens in the Middle** | Only one pen per group; promotes shared responsibility | Solve group math problems |
-| **Pyramid Learning** | Share ideas in increasing group size | Form 2 → 4 → 8 to decide best argument |
-| **Paragraph Expert** | Each group masters one paragraph, teaches rest | Explaining textbook sections |
-| **STAD (Student Teams Achievement Division)** | Teams learn and then take individual tests | Competitive but collaborative learning method |
+📝 *Example:* Before an exam, students quiz each other on teaching methods.
 
 ---
 
-## 5.3 Problem-Based Learning Category
+### ✅ Classify – Categorize – Organize
+- Students **sort information** into categories or sequences.
+- Helps with **concept mapping and critical thinking**.
 
-### 5.3.1 Concept
-
-- Students learn by solving **real-world or simulated problems**.  
-- Emphasizes **critical thinking, inquiry, and decision-making**.
-
-### 5.3.2 Strategies
-
-| Strategy | Description | Real-life Example |
-|---------|-------------|-------------------|
-| **IDEAL** (Identify, Define, Explore, Act, Look) | Problem-solving steps | Solving traffic problems in the school area |
-| **DUPE** (Define, Understand, Plan, Evaluate) | Structured investigation method | Planning a school campaign against bullying |
-| **I-Search** | Personal research project | A student researches "Why do people migrate?" |
-| **Socratic Questioning** | Teacher-led critical dialogue | Discuss "Is war ever justified?" using questions |
+📝 *Example:* Sorting types of student-centered strategies into cooperative, problem-based, and learner-engaged.
 
 ---
 
-## Sample Lesson Plan (Student-Centered)
+### ✅ Relay
+- A **team-based activity** where students pass information or questions like a relay race.
+- Encourages **collaboration and quick thinking**.
 
-| Element         | Description                            |
-|-----------------|----------------------------------------|
-| **Topic**       | Water Pollution                        |
-| **Objective**   | Students will analyze causes and solutions |
-| **Method**      | Jigsaw (Cooperative)                   |
-| **Materials**   | Charts, fact sheets, markers           |
-| **Process**     | Groups study different pollution causes and share |
-| **Assessment**  | Group presentations, peer questions    |
-| **Reflection**  | "What? So what? Now what?" worksheet   |
+📝 *Example:* Teams take turns answering parts of a multi-step math problem.
+
+---
+
+### ✅ Guess Who?
+- Based on **clues**, students guess a person, concept, or term.
+- Useful for reviewing definitions, theorists, or models.
+
+📝 *Example:* “I developed the theory of multiple intelligences…” — Answer: Howard Gardner.
+
+---
+
+### ✅ Two Truths and a Lie
+- Each student shares **two true facts and one false statement** about a topic.
+- Others must identify the lie.
+
+📝 *Example:* About constructivism — “It supports memorization.” (Lie)
+
+---
+
+### ✅ Snowballing
+- Start with individual reflection, then **pair, share, and expand** to larger groups.
+- Builds deep understanding and collaboration.
+
+📝 *Example:* Reflect on a group activity, share in pairs, then join another pair for discussion.
+
+---
+
+### ✅ Question Ball
+- A soft ball is passed around. Whoever catches answers or asks a question written on the ball.
+- Encourages **participation and excitement**.
+
+📝 *Example:* A “pedagogy ball” with questions like “Define direct instruction,” “Name one cooperative strategy.”
+
+---
+
+### ✅ Run to the Board
+- Students **race to the board** to answer questions or write terms.
+- Useful for **active review sessions**.
+
+📝 *Example:* Teacher says a learning theory, students run and write its key proponent.
+
+---
+
+## 6.3 Reflective Approaches
+
+### 🔹 Teacher Reflection
+- Teachers analyze **what worked and what didn’t** after a lesson.  
+- May use **lesson journals, feedback forms, or peer observations**.
+
+### 🔹 Student Reflection
+- Students write or share **what they learned, what challenged them, and what they want to improve**.
+- Can use tools like:
+  - Learning logs
+  - Reflection journals
+  - "What? So what? Now what?" framework
+
+### 🔹 Peer Reflection
+- Classmates give **constructive feedback** to each other.
+- Encourages **collaborative improvement**.
+
+📝 *Example:* After a peer teaching session, the class gives feedback to the presenter using a checklist.
 
 ---
 
 ## Summary for Exam Preparation
 
-| Category                   | Strategies to Remember                                          |
-|----------------------------|-----------------------------------------------------------------|
-| Learner-Engaged            | Brainstorming, KWL, DLTA, Text Coding, Think-Pair-Share        |
-| Cooperative Learning       | Jigsaw, STAD, Reciprocal Teaching, One Stay Others Stray       |
-| Problem-Based Learning     | IDEAL, DUPE, I-Search, Socratic Questioning                    |
-| Lesson Planning            | Use strategies to design engaging, student-centered lessons    |
+| Topic                    | Key Points                                                                  |
+|--------------------------|------------------------------------------------------------------------------|
+| Review                   | Revisit and reinforce previously taught material                            |
+| Reflection               | Critical thinking about learning/teaching experiences                       |
+| Review Strategies        | Q-A Pair, Relay, Guess Who?, Snowballing, Two Truths & a Lie, etc.          |
+| Reflective Approaches    | Teacher reflection, student self-reflection, peer feedback                  |
 
 ---
 
-> **Exam Tip:** Be prepared to:
-> - Define and explain all 3 categories  
-> - Match strategies to categories  
-> - Write a sample lesson plan using at least one strategy  
-> - Justify when student-centered methods are most suitable  
+> **Exam Tip:**  
+> Be prepared to list 5–7 review strategies with examples, explain what reflection means, and describe how reflective approaches improve teaching and learning.
 
 ---
 
